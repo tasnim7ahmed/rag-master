@@ -53,8 +53,8 @@ The fourth notebook provides an end-to-end **CRAG** solution. It integrates open
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tasnim7ahmed/ragmaster.git
-   cd ragmaster
+   git clone https://github.com/tasnim7ahmed/rag-master.git
+   cd rag-master
    ```
 
 2. Install dependencies:
